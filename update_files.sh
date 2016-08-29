@@ -6,22 +6,22 @@ cd /var/www/html
 git pull
 
 echo Repo 1...
-cd /var/www/LaTeX_files/An-Introduction-to-LaTeX
+cd /var/www/html/files/An-Introduction-to-LaTeX
 git pull
 zip -FSr ../An-Introduction-to-LaTeX.zip *
 
 echo Repo 2...
-cd /var/www/LaTeX_files/examples
+cd /var/www/html/files/examples
 git pull
 zip -FSr ../examples.zip *
 
 echo Repo 3...
-cd /var/www/LaTeX_files/gshslatexintro
+cd /var/www/html/files/gshslatexintro
 git pull
 zip -FSr ../gshslatexintro.zip *
 
 echo Repo 4...
-cd /var/www/LaTeX_files/pdf-cloud
+cd /var/www/html/files/pdf-cloud
 git pull
 zip -FSr ../pdf-cloud.zip *
 
