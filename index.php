@@ -28,17 +28,17 @@
 		<h6> 경기과학고 학생 및 교직원이라면 누구나 참여 가능합니다. </h6>
 		
 		<?php
-		$size_1=number_format(filesize("../LaTeX_Files/gshslatexintro.zip")/1024/1024,2);
-		$size_2=number_format(filesize("../LaTeX_Files/examples.zip")/1024/1024,2);
-		$size_3=number_format(filesize("../LaTeX_Files/An-Introduction-to-LaTeX.zip")/1024/1024,2);
-		$size_4=number_format(filesize("../LaTeX_Files/pdf-cloud.zip")/1024/1024,2);
+		$size_1=number_format(filesize("../LaTeX_files/gshslatexintro.zip")/1024/1024,2);
+		$size_2=number_format(filesize("../LaTeX_files/examples.zip")/1024/1024,2);
+		$size_3=number_format(filesize("../LaTeX_files/An-Introduction-to-LaTeX.zip")/1024/1024,2);
+		$size_4=number_format(filesize("../LaTeX_files/pdf-cloud.zip")/1024/1024,2);
 		?>
 
 		<a href="https://github.com/gshslatexintro/gshslatexintro" class="btn"><b>GitHub</b>에서 보기</a>
-		<a href="../LaTeX_Files/gshslatexintro.zip" class="btn"><b>양식(R&E보고서, 졸업논문 등) </b>(<?php echo $size_1 ?>MB)</a>
-		<a href="../LaTeX_Files/examples.zip" class="btn"><b> TeX 예시코드 </b>(<?php echo $size_2 ?>MB)</a>
-		<a href="../LaTeX_Files/An-Introduction-to-LaTeX.zip" class="btn"><b> TeX 입문서 </b>(<?php echo $size_3 ?>MB)</a>
-		<a href="../LaTeX_Files/pdf-cloud.zip" class="btn"><b> 기타 자료 모음집 </b>(<?php echo $size_4 ?>MB)</a>
+		<a href="../LaTeX_files/gshslatexintro.zip" class="btn"><b>양식(R&E보고서, 졸업논문 등) </b>(<?php echo $size_1 ?>MB)</a>
+		<a href="../LaTeX_files/examples.zip" class="btn"><b> TeX 예시코드 </b>(<?php echo $size_2 ?>MB)</a>
+		<a href="../LaTeX_files/An-Introduction-to-LaTeX.zip" class="btn"><b> TeX 입문서 </b>(<?php echo $size_3 ?>MB)</a>
+		<a href="../LaTeX_files/pdf-cloud.zip" class="btn"><b> 기타 자료 모음집 </b>(<?php echo $size_4 ?>MB)</a>
 		<a href="fileList.php" class="btn">전체 파일 목록</a>
 
 	<?php echo "<h6 class=\"project-tagline\" style=\"font-size:0.67rem\">Last Updated:",file("updated.txt")[0],"</h6>"?>
