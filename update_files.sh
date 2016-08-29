@@ -26,4 +26,5 @@ git pull
 zip -FSr ../pdf-cloud.zip *
 
 export TZ=Asia/Seoul
+date > /var/www/html/updated.txt
 
