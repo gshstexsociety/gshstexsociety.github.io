@@ -8,22 +8,22 @@ git pull
 echo Repo 1...
 cd /var/www/html/files/An-Introduction-to-LaTeX
 git pull
-zip -FSr ../An-Introduction-to-LaTeX.zip *
+zip -FSr /var/www/html/files/An-Introduction-to-LaTeX.zip *
 
 echo Repo 2...
 cd /var/www/html/files/examples
 git pull
-zip -FSr ../examples.zip *
+zip -FSr /var/www/html/examples.zip *
 
 echo Repo 3...
 cd /var/www/html/files/gshslatexintro
 git pull
-zip -FSr ../gshslatexintro.zip *
+zip -FSr /var/www/html/gshslatexintro.zip *
 
 echo Repo 4...
 cd /var/www/html/files/pdf-cloud
 git pull
-zip -FSr ../pdf-cloud.zip *
+zip -FSr /var/www/html/pdf-cloud.zip *
 
 export TZ=Asia/Seoul
 date > /var/www/html/updated.txt
