@@ -6,7 +6,6 @@
 <body>
   <p>Click to expand...</p>
   <p>차례로 입문서 / 예시코드 / 양식 / 파일모음집 </p>
-  <?php echo "<p class=\"project-tagline\" style=\"font-size:0.67rem\">Last Updated:",file("updated.txt")[0],"</p>"?>
   <?php
   /*
   function scan($dir){
