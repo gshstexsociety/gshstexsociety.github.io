@@ -24,7 +24,7 @@
 		<h1 class="project-name">경기과학고 텍 사용자협회</h1>
 		<h2 class="project-tagline">GSHS TeX Society</h2>
 		<h2 class="project-tagline"> 각종 양식 제공 + 입문서 + 예제 파일들 </h2>
-		<h6> 경기과학고 학생 및 교직원이라면 누구나 참여 가능합니다. </h6>
+		<h6> 경기과학고 학생/교직원이라면 누구나 참여 가능합니다. 참여문의 : 32기 박승원</h6>
 		
 		<?php
 		$size_1=number_format(filesize("files/gshslatexintro.zip")/1024/1024,2);
@@ -39,7 +39,12 @@
 		<a href="files/An-Introduction-to-LaTeX.zip" class="btn"><b> TeX 입문서 </b>(<?php echo $size_3 ?>MB)</a>
 		<a href="files/pdf-cloud.zip" class="btn"><b> 기타 자료 모음집 </b>(<?php echo $size_4 ?>MB)</a>
 		<a href="fileList.php" class="btn">전체 파일 목록</a>
-
+	
+	<?php echo "<h6 class=\"project-tagline\" style=\"font-size:0.67rem\">Last Updated:";
+		$updateinfo = file_get_contents("updated.txt");
+		echo $updateinfo;
+		echo "</h6>";
+	?>
 	<h6> 1시간 주기로 GitHub에서 업데이트됩니다. </h6>
 	<h6> 폴더에 포함되어 있는 .gitignore 파일들은 무시하셔도 됩니다. </h6>
 		<div align="center">
