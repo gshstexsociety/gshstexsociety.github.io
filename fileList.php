@@ -71,7 +71,7 @@ function getDirContentsR($dir){
   }
 }
 echo "<ul id=\"root\">";
-getDirContentsR("../LaTeX_Files/");
+getDirContentsR("files/");
 echo "</ul>";
 ?>
 
