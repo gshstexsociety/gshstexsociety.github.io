@@ -2,8 +2,9 @@ echo Starting...
 date
 
 echo PHP Site...
+echo PHP site update diasbled temporarily
 cd /var/www/html
-git pull
+#git pull
 
 echo Repo 1...
 cd /var/www/html/files/An-Introduction-to-LaTeX
@@ -25,6 +26,7 @@ cd /var/www/html/files/pdf-cloud
 git pull
 zip -FSr /var/www/html/files/pdf-cloud.zip *
 
+echo Time...
 export TZ=Asia/Seoul
 date > /var/www/html/updated.txt
 
