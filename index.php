@@ -63,6 +63,7 @@
 <li> <b>gshs_thesis_certified</b> : (공식) 졸업논문 R&E tex 샘플(겸 논문작성 가이드) 및 cls 파일 (<b>목진욱</b>, 박승원, 이주찬) </li>
 <li> gshs_thesis_certified-<b>adv</b> : BibTeX, subfiles, xelatex 을 이용한 졸업논문 양식 (<b>이주찬</b>, 박승원) </li>
 <li> sample_document : 단순한 샘플 문서. User template 으로 등록해두면 편합니다. (박승원) </li>
+<li> <b>gshs_beamer</b> : 다용도 Beamer Template. (<b>목진욱</b>, 박승원) </li>
 <li> <b>gshs_chem_experiment</b> : 일반화학실험 실험보고서 도움말 및 cls 파일(beta, 2016.01.13) (<b>이주찬</b>) </li>
 <li> <b>Humantech_Paper_Award</b> : 휴먼테크논문대회 초록/논문 양식(2015년도-22회 기준) (<b>목진욱</b>, 박승원) </li>
 <li> Jointed_RnE_presentation : 영재학교 우수 R&E 공동발표회 보고서 양식(제 5회(대전과학고) 기준) (<b>박승원</b>) </li>
@@ -70,6 +71,7 @@
 <li> gshs_math_seminar_report : 2016학년도 수학세미나I 보고서 양식 (<b>박승원</b>) </li>
 <li> gshs_poster : (Beta) 경기과학고 전용 포스터 양식 (<b>박승원</b>) </li>
 <li> gshs_imaginarylab : 무한상상캠프 작품제작설명서 양식 (<b>박승원</b>, 서울) </li>
+
 
 <h4> 학습용 예시 tex 파일들(업데이트되지 않음) </h4>
 <li> Calculus_Prob_14041 : 미적분학 I 레포트 (박승원) </li>
