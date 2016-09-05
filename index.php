@@ -60,13 +60,13 @@
 <h4> 모든 양식은 TeXstudio 사용자를 기준으로 제작됩니다. </h4>
 
 <li> <b>gshs_report</b> : 기초/심화 R&E tex 양식(<b>정민석</b>, 박승원, 이상헌) </li>
-<li> <b>gshs_thesis</b> : 졸업논문 R&E tex 양식(<b>목진욱</b>, 박승원, 이주찬) </li>
-<li> gshs_thesis-<b>adv</b> : BibTeX, subfiles, xelatex 을 이용한 간편한 졸업논문 양식 (<b>이주찬</b>, 박승원) </li>
+<li> <b>gshs_thesis</b> : 졸업논문 tex 양식(<b>목진욱</b>, 박승원, 이주찬) </li>
+<li> gshs_thesis-<b>adv</b> : BibTeX, subfiles, xelatex 사용 (<b>이주찬</b>, 박승원) </li>
 <li> <b>gshs_beamer</b> : 다용도 Beamer Template. (<b>목진욱</b>, 박승원) </li>
-<li> <b>gshs_chem_experiment</b> : 일반화학실험 실험보고서 도움말 및 양식(beta, 2016.01.13) (<b>이주찬</b>) </li>
-<li> <b>Humantech_Paper_Award</b> : 휴먼테크논문대회 초록/논문 양식(2015년도-22회 기준) (<b>목진욱</b>, 박승원) </li>
-<li> 5th_jointed_rne_presentation : 영재학교 우수 R&E 공동발표회 보고서 양식(제 5회(대전과학고) 기준) (<b>박승원</b>) </li>
-<li> gshs_reading : 2016학년도 1학기 독서 독후감 양식 (<b>이주찬</b>)</li>
+<li> <b>gshs_chem_experiment</b> : 일반화학실험 실험보고서 도움말 및 양식 (<b>이주찬</b>) </li>
+<li> <b>Humantech_Paper_Award</b> : 휴먼테크논문대회 초록/논문 양식(제 22회 기준) (<b>목진욱</b>, 박승원) </li>
+<li> 5th_jointed_rne_presentation : 과학영재학교 우수 R&E 공동발표회 보고서 양식(제 5회 기준) (<b>박승원</b>) </li>
+<li> gshs_reading : 2016학년도 1학기 독서 과목 독후감 양식 (<b>이주찬</b>)</li>
 <li> gshs_math_seminar_report : 2016학년도 수학세미나I 보고서 양식 (<b>박승원</b>) </li>
 <li> gshs_imaginarylab : 무한상상캠프 작품제작설명서 양식 (<b>박승원</b>, 서울) </li>
 
@@ -77,7 +77,7 @@
 <li> Korean_and_Life_14041 : 국어와생활 시험범위 정리 (박승원) </li>
 <li> 2015_Science_Research_Writing : 영어논문작성법 시험범위 정리 (박승원, 이상헌, 이주찬) </li>
 <li> Advanced_Physics_14041 : 고급물리학I 레포트 (박승원) </li>
-<li> 2016_GSHS_Linear_Algebra_midterm : Linear Algebra Thm Archive - for Mid-Term Exam(<b>황동욱</b>, 박승원) </li>
+<li> 2016_GSHS_Linear_Algebra_midterm : 선형대수학 시험범위 정리(<b>황동욱</b>, 박승원) </li>
 <li> Manany_Harmony_Project : 경기과학고 작곡작사동아리 매나니 화성학 강의(이상헌) </li>
 <li> Science_In_Narratives_14080 : 경기과학고 'Science in Narratives' 과목 발표자료(이상헌) </li>
 <li> sample_document : 단순한 샘플 문서. User template 으로 등록해두면 편합니다. (박승원) </li>
