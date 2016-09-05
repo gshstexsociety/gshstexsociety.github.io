@@ -2,7 +2,7 @@ echo Starting...
 date
 
 echo PHP Site...
-echo PHP site update diasbled temporarily
+echo PHP site update diasbled due to security issues
 cd /var/www/html
 #git pull
 
