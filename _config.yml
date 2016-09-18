@@ -19,5 +19,5 @@ destination: /var/www/html
 
 # GitHub:
 github:
-  repo: seungwonpark/latex3.github.io
+  repo: gshslatexintro/latex.gs.hs.kr
   branch: master
