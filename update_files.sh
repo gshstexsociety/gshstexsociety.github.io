@@ -1,10 +1,5 @@
-echo Starting...
+echo Started updating files...
 date
-
-echo PHP Site...
-echo PHP site update diasbled due to security issues
-cd /var/www/source
-#git pull
 
 echo Repo 1...
 cd /var/www/source/files/An-Introduction-to-LaTeX
@@ -30,3 +25,5 @@ echo Time...
 export TZ=Asia/Seoul
 date > /var/www/source/updated.txt
 
+cd /var/www/source
+jekyll build
