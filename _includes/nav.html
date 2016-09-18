@@ -1,0 +1,26 @@
+      <nav>
+        <label for="show-menu" class="show-menu">Show Menu</label>
+        <input type="checkbox" id="show-menu" role="button">
+        <ul>
+          {% if page.url == '/' %}<li class="active">{% else %}<li>{% endif %}
+            <a href="{{ "/" | prepend: site.baseurl }}">Home</a></li>
+          {% if page.url contains '/개요/' %}<li class="active">
+            {% else %}<li>{% endif %}
+            <a href="{{ "/개요/" | prepend: site.baseurl }}">개요</a></li>
+          {% if page.url contains '/설치/' %}<li class="active">
+            {% else %}<li>{% endif %}
+            <a href="{{ "/설치/" | prepend: site.baseurl }}">설치</a></li>
+          {% if page.url contains '/다운로드/' or page.url contains 'download.php' %}<li class="active">
+            {% else %}<li>{% endif %}
+            <a href="{{ "/다운로드/" | prepend: site.baseurl }}">다운로드</a></li>
+          {% if page.url contains '/참여/' %}<li class="active">
+            {% else %}<li>{% endif %}
+            <a href="{{ "/참여/" | prepend: site.baseurl }}">참여</a></li>
+          {% if page.url contains '/도움/' %}<li class="active">
+            {% else %}<li>{% endif %}
+            <a href="{{ "/도움/" | prepend: site.baseurl }}">도움</a></li>
+          {% if page.url contains '/소식/' %}<li class="active">
+            {% else %}<li>{% endif %}
+            <a href="{{ "/소식/" | prepend: site.baseurl }}">소식</a></li>
+        </ul>
+      </nav>

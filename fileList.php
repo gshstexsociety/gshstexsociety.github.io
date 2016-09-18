@@ -1,7 +1,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>경기과학고 TeX 사용자협회 git 파일</title>
+  <title>자료 목록 - 경기과학고 텍 사용자협회</title>
 </head>
 <body>
   <p>Click to expand...</p>

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<h1>협회 소식</h1>
+<div class="post">
+  <article class="post-content">
+    <small class="meta"><span class="post-date">{{ page.date | date: "%b %-d, %Y" }}</span>{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</small>
+    {{ content }}
+  </article>
+</div>
+
+<!--
+<hr>
+<div class="row teaser">
+  <section class="col cell1of2">
+    <a href="{{site.baseurl}}/news/latex2e-news/">
+      <h2>LaTeX2e Release Newsletters</h2>
+      <p>LaTeX2e release newsletters for each release of LaTeX created since 1994.</p>
+    </a>
+  </section>
+  <section class="col cell1of2">
+    <a href="{{site.baseurl}}/news/latex3-news/">
+      <h2>LaTeX3 Release Newsletters</h2>
+      <p>LaTeX3 release newsletters for each release of LaTeX3 created since 2009.</p>
+    </a>
+  </section>
+</div>
+-->

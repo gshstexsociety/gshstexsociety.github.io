@@ -1,7 +1,17 @@
-# *.txt may include memberlist.txt
+# various
+.htaccess
+ci/
+Gemfile.lock
+robots.txt
+
+# vim
+*.bak
+*.swp
+*.swo
+*.vim
+
+# Files
+files/*
 
 # Update info file
 updated.txt
-
-# LaTeX Files
-files/*

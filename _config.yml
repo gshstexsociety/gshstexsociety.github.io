@@ -1,0 +1,23 @@
+# Site settings
+title: latex.gs.hs.kr
+baseurl: "http://latex.gs.hs.kr"
+url: "http://latex.gs.hs.kr"
+
+# Build settings
+markdown: kramdown
+# enable recognition of Github Flavored Markdown (GFM)
+# kramdown:
+#  input: GFM
+
+# Permalinks
+# http://jekyllrb.com/docs/permalinks/
+# permalink: date|pretty|ordinal|none
+permalink: pretty
+
+# Destination
+destination: /var/www/html
+
+# GitHub:
+github:
+  repo: seungwonpark/latex3.github.io
+  branch: master
