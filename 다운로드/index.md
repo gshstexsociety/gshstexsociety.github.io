@@ -33,6 +33,8 @@ Day0, Day1, Day2.
     <dd> 일반화학실험 보고서 도움말 및 양식. </dd>
     <dt> Humantech_Paper_Award </dt>
     <dd> 제 22회 기준 - 휴먼테크논문대상 초록/논문 양식. </dd>
+    <dt> gshs_observatory </dt>
+    <dd> 경기과학고 천문대 관측일지 양식. </dd>
     <dt> gshs_imaginarylab </dt>
     <dd> 무한상상캠프 작품제작설명서 양식. </dd>
     <dt> 5th_jointed_rne_presentation </dt>
