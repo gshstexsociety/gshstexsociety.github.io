@@ -131,7 +131,9 @@
         p_body = p_body + 'description:  "' + description +'" \n';
         p_body = p_body + 'excerpt:  "' + excerpt +'" \n';
 		p_body = p_body + 'categories: 소식 \n';
-        p_body = p_body + 'meta:  "' + meta +'" \n';
+        if(meta.length > 0){
+            p_body = p_body + 'meta:  "' + meta +'" \n';
+        }
 		p_body = p_body + '---\n\n';
 		p_body = p_body + '# ' + title_detail;
 		p_body = p_body + '\n\n' + body;
