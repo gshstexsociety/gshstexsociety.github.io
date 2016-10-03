@@ -22,8 +22,8 @@ git pull
 zip -FSr /var/www/source/files/pdf-cloud.zip *
 
 echo Time...
-export TZ=Asia/Seoul
 date > /var/www/source/updated.txt
 
+echo Building website...
 cd /var/www/source
 jekyll build
