@@ -2,7 +2,7 @@
 layout: home
 menu: Home
 title: 경기과학고 텍 사용자협회
-description: "LaTeX is a high-quality typesetting system; it includes features designed for the production of technical and scientific documentation."
+description: "경기과학고 교내 텍 사용 문화를 활성화하기 위한 경기과학고 텍 사용자협회입니다."
 ---
 
 <div class="row">
