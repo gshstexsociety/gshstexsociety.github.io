@@ -12,7 +12,7 @@ tags: [github, open]
 
 # GitHub organization이 개설되었다
 
-코드 공동 편집 사이트인 [GitHub](github.com)에
-[GSHS LaTeX Intro](github.com/gshslatexintro)을 개설하였다.
+코드 공동 편집 사이트인 [GitHub](https://github.com)에
+[GSHS LaTeX Intro](https://github.com/gshslatexintro)을 개설하였다.
 
 경기과학고 교내에서 텍을 사용하는 사람의 수가 늘어나기를 간절히 소망한다.
