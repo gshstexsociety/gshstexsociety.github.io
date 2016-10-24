@@ -8,7 +8,7 @@ permalink: /다운로드/
 
 아래는 자료의 목록입니다. 모든 파일은 매시 정각 <a href="https://github.com/gshslatexintro">GitHub</a>에서 업데이트됩니다.
 
-<a href="{{ "/download.php" | prepend: site.baseurl }}">다운로드 페이지 링크</a>
+## <a href="{{ "/download.php" | prepend: site.baseurl }}">다운로드 페이지 링크</a>
 
 ## 입문서
 
