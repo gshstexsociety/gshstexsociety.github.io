@@ -32,7 +32,7 @@ description: "경기과학고 교내 텍 사용 문화를 활성화하기 위한
       <li><span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
-    <small><a href="{{ "/소식/" | prepend: site.baseurl }}">모두 보기</a></small> Subscribe to our <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><span class="fa fa-rss-square"></span>RSS News Feed</a></small>
+    <small><a href="{{ "/소식/" | prepend: site.baseurl }}">모두 보기</a> &middot; <a href="{{ "/feed.xml" | prepend: site.baseurl }}"><span class="fa fa-rss-square"></span>RSS 뉴스 피드 구독</a></small>
   </div>
 </div>
 <hr>
