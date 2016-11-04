@@ -1,4 +1,4 @@
-# latex.gs.hs.kr(WIP)
+# latex.gs.hs.kr
 
 **경고 : MS 메모장으로는 `.md` 파일을 편집하지 마시오.**
 Jekyll 파싱 에러를 야기합니다. 편집할 때에는 GitHub에서 직접 편집하거나, [npp](https://notepad-plus-plus.org/)을 사용하십시오.
