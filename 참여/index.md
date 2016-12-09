@@ -44,7 +44,7 @@ permalink: /참여/
     텍 사용에 관심이 있는 경기과학고 구성원(재학생, 교직원, 졸업생)이라면,
     본 협회의 <a href="https://github.com/gshslatexintro">GitHub</a>에 동참하는 것을 적극 고려해 주십시오.
     <br>
-    <b>참여 문의</b> : <a href="https://github.com/seungwonpark">현 회장(32기 박승원)</a>
+    <b>참여 문의</b> : [현 회장(32기 박승원)](https://github.com/seungwonpark), [서울 선생님](https://github.com/WoolSeo)
     </p>
   </div>
 </div>
