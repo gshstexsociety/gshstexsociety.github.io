@@ -1,7 +1,7 @@
 ---
 layout: home
 menu: Home
-title: 경기과학고 텍 사용자협회
+title: 경기과학고 텍 사용자협회(GSHS TeX Society)
 description: "경기과학고 교내 텍 사용 문화를 활성화하기 위한 경기과학고 텍 사용자협회입니다."
 ---
 
