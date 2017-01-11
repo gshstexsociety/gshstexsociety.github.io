@@ -9,7 +9,6 @@
 - Lists
 - Code
 - Tables
-- Blockquotes
 - Spacing
 - Fontawsome
 - Utilities
@@ -40,8 +39,8 @@
 
 /* rows */
 .row {
-  padding: 0;
-  margin: 0;
+	padding: 0;
+	margin: 0;
 }
 .row:before,
 .row:after {
@@ -54,40 +53,40 @@
 
 /* columns */
 .col {
-  display: block;
-  float:left;
-  margin: 1% 0 1% 4%;
+	display: block;
+	float:left;
+	margin: 1% 0 1% 4%;
 }
 
 .col:first-child { margin-left: 0; } /* all browsers except IE6 and lower */
 
 @media only screen and (max-width: 480px) {
-  .col { 
-    margin: 1% 0 1% 0%;
-  }
+	.col { 
+		margin: 1% 0 1% 0%;
+	}
 }
 
 /* cells */
-.cell1of1 { width: 100%;}
-.cell2of2 { width: 100%;}
-.cell1of2 { width: 48%;}
+.cell1of1 {	width: 100%;}
+.cell2of2 {	width: 100%;}
+.cell1of2 {	width: 48%;}
 @media only screen and (max-width: 480px) {
   .cell1of2, .cell2of2 { width: 100%; }
 }
 
-.cell3of3 { width: 100%; }
-.cell2of3 { width: 65.33%; }
-.cell1of3 { width: 30.66%; }
+.cell3of3 {	width: 100%; }
+.cell2of3 {	width: 65.33%; }
+.cell1of3 {	width: 30.66%; }
 @media only screen and (max-width: 600px) {
-  .cell1of3, .cell2of3, .cell3of3 { margin: 0; width: 100%; }
+	.cell1of3, .cell2of3, .cell3of3 { margin: 0; width: 100%; }
 }
 
 .cell4of4 { width: 100%; }
 .cell3of4 { width: 74%; }
-.cell2of4 { width: 48%; }
-.cell1of4 { width: 22%; }
+.cell2of4 {	width: 48%; }
+.cell1of4 {	width: 22%; }
 @media only screen and (max-width: 700px) {
-  .cell1of4, .cell2of4, .cell3of4, .cell4of4 { margin: 0; width: 100%; }
+	.cell1of4, .cell2of4, .cell3of4, .cell4of4 { margin: 0; width: 100%; }
 }
 
 .cell5of5 { width: 100%; }
@@ -96,7 +95,7 @@
 .cell2of5 { width: 37.6%; }
 .cell1of5 { width: 16.8%; }
 @media only screen and (max-width: 480px) {
-  .cell1of5, .cell2of5, .cell3of5, .cell4of5, .cell5of5 { width: 100%; }
+	.cell1of5, .cell2of5, .cell3of5, .cell4of5, .cell5of5 { width: 100%; }
 }
 
 .cell6of6 { width: 100%; }
@@ -129,7 +128,7 @@
 .cell2of8 { width: 22%; }
 .cell1of8 { width:  9%; }
 @media only screen and (max-width: 480px) { 
-  .cell1of8, .cell2of8, .cell3of8, .cell4of8, .cell5of8, .cell6of8, .cell7of8, .cell8of8 {  width: 100%; }
+  .cell1of8, .cell2of8, .cell3of8, .cell4of8, .cell5of8, .cell6of8, .cell7of8, .cell8of8 { 	width: 100%; }
 }
 
 
@@ -152,16 +151,12 @@ html, header {
   background: url("../img/bg.png") repeat scroll 0% 0%, #F5F1E8 none repeat scroll 0% 0%;
   font-size: 100%; height: 100%; 
   line-height: 1.5; }
-.wrap {
-  background: #FFF;
-  margin: -2.5em -2em -3em;
-  padding: 3em 2em 2.5em 2em;
-}
 
 
 /* Typography
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 body {
+  background: #FFF;
   color: #000;
   font-family: 'roboto_light', sans-serif;
   font-size: 1em;
@@ -211,7 +206,7 @@ ul ul,
 ul ol,
 ol ol,
 ol ul {
-  margin: 1.2em 0 1.2em 3em;
+  margin: 1.5em 0 1.5em 3em;
   font-size: 90%; }
 li {
   margin-bottom: 0.3em; }
@@ -221,7 +216,6 @@ ul.team, ul.team ul { list-style: inside none; margin: .5em 0 2em;}
 ul.team ul { margin: 0 0 0 .2em; }
 ul.team ul li { margin: 0; }
 ul.team a span {color: #000;}
-ul.team a {word-break: break-all; display: inline-block;}
 
 
 /* Code
@@ -257,18 +251,9 @@ td:last-child {
   padding-right: 0; }
 
 
-/* Blockquotes
-–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
-blockquote {
-  border-left: 2px solid #999;
-  font-style: italic;
-  padding: 0 0 0 .6em;
-}
-
-
 /* Spacing
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
-article { margin: 0; }
+article { margin: 2em 0 0; }
 button,
 .button {
   margin-bottom: 1em; }
@@ -286,7 +271,7 @@ p,
 ul,
 ol,
 form {
-  margin-bottom: 1.5em; }
+  margin-bottom: 2.5em; }
 
 
 /* Fontawsome
@@ -311,7 +296,7 @@ span.fa { color: #555; margin: 0 0.5em 0 0;}
 /* Header
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
 header { margin: 0 -2em 1.5em; }
-header a img { display: block; margin: 1em auto 1.2em; padding-top: .6em; }
+header img { display: block; margin: 1em auto 1.2em; }
 header span { position: absolute !important; top: -9999em !important; left: -9999em !important; }
 
 
@@ -343,7 +328,7 @@ nav input[type=checkbox]:checked ~ ul { display: block; }
     position: static;
     display: none;
   }
-  nav ul li {
+  nav ul li, li a {
     display: block;
     width: auto;
   }
@@ -383,24 +368,13 @@ hr {
 
 /* Various
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
-/* cookie consent */
-@media print{.cc_banner-wrapper,.cc_container{display:none}}
-.cookieconsent { background: #FFF; margin: 0 -2em; padding: 0 2em; }
-.cookieconsent .btn { background: #f1d600; border-radius: 4px; color: #000; float: right; padding: .2em .4em .1em; text-align: center; }
-
-/* search */
-.search { float: right; height: 20px; margin: 0 0 -.5em; padding: .5em 1.8em; overflow: hidden; }
-.search form { text-align: right; }
-
-
 /* home */
-.home { padding: 2.5em 2em 2.5em 2em; }
 .home dt { margin: 1em 0 .3em; }
 
 /* teaser */
 .teaser a:hover { display: inline-block; text-decoration: none; }
 .teaser section a h2,
-.teaser section a h3 { color: #005DB7; font-size: 1.2em; margin: 0 0 .5em; padding: .2em 0; }
+.teaser section a h3 { color: #005DB7; font-size: 1.2em; margin: 0 0 .5em; padding: .2em 0;}
 .teaser section a p { color: #000; }
 .teaser section a:hover p { color: #005DB7; }
 
@@ -427,13 +401,10 @@ ul.all-news-posts {margin: 0 0 2.5em;}
 
 /* toc */
 .toc { list-style: none; }
-.toc li:before { content: "\27A4 \2002 \2005"; color: #777; white-space: nowrap;}
+.toc li:before { content: "\27A4 \2002 \2005"; color: #777;}
 .toc li { border-bottom: 1px dotted #999; margin: 0; padding: .2em .5em;}
-.toc li a { display: inline-block; width: auto; word-break: break-all;}
+.toc a { display: inline-block; width: auto; }
 .toc a:hover { color: #000; text-decoration: none; }
-.toc li ul { margin: 0.5em 0 0.5em 1.2em;}
-.toc li li { border-bottom: none ;}
-
 
 /* links */
 .links ul { list-style: none; }
@@ -450,7 +421,7 @@ ul.all-news-posts {margin: 0 0 2.5em;}
 .team h2 .role { color: #999; font-size: 0.7em; }
 
 /* flattr */
-a[href*="flattr.com/submit/auto"] { float: right; }
+a[href*="flattr"] { float: right; }
 
 
 /* Clearing
