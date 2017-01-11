@@ -368,6 +368,11 @@ hr {
 
 /* Various
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* cookie consent */
+@media print{.cc_banner-wrapper,.cc_container{display:none}}
+.cookieconsent { background: #FFF; margin: 0 -2em; padding: 0 2em; }
+.cookieconsent .btn { background: #f1d600; border-radius: 4px; color: #000; float: right; padding: .2em .4em .1em; text-align: center; }
+
 /* home */
 .home dt { margin: 1em 0 .3em; }
 
