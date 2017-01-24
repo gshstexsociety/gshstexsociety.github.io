@@ -7,4 +7,4 @@ git pull
 jekyll build
 
 cd /var/www/source/files
-git clone https://github.com/gshslatexintro/gshslatexintro-mirror
+git clone https://github.com/gshslatexintro/gshslatexintro-mirror gshslatexintro-mirror
