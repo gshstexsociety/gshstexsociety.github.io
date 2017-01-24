@@ -8,7 +8,8 @@ description: "LaTeX is a high-quality typesetting system; it includes features d
 	$size_1=number_format(filesize("files/gshslatexintro.zip")/1024/1024,2);
 	$size_2=number_format(filesize("files/examples.zip")/1024/1024,2);
 	$size_3=number_format(filesize("files/An-Introduction-to-LaTeX.zip")/1024/1024,2);
-	$size_4=number_format(filesize("files/pdf-cloud.zip")/1024/1024,2);
+	$size_4=number_format(filesize("files/examples-mirror.zip")/1024/1024,2);
+	$size_5=number_format(filesize("files/gshslatexintro-mirror.zip")/1024/1024,2);
 ?>
 <h1>다운로드</h1>
 
@@ -31,10 +32,13 @@ description: "LaTeX is a high-quality typesetting system; it includes features d
 </div>
 <hr>
 <div class="row">
-	<div class="col cell1of2">
-		<a href="files/pdf-cloud.zip" class="btn"><b>기타 자료 모음집</b>(<?php echo $size_4 ?>MB)</a>
+	<div class="col cell1of3">
+		<a href="files/gshslatexintro-mirror.zip" class="btn"><b>양식-mirror 모음집</b>(<?php echo $size_5 ?>MB)</a>
 	</div>
-	<div class="col cell1of2">
+	<div class="col cell1of3">
+		<a href="files/examples-mirror.zip" class="btn"><b>예제-mirror 모음집</b>(<?php echo $size_4 ?>MB)</a>
+	</div>
+	<div class="col cell1of3">
 		<a href="fileList.php" class="btn">전체 파일 목록</a>
 	</div>
 </div>

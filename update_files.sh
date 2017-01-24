@@ -17,9 +17,14 @@ git pull
 zip -FSr /var/www/source/files/gshslatexintro.zip *
 
 echo Repo 4...
-cd /var/www/source/files/pdf-cloud
+cd /var/www/source/files/examples-mirror
 git pull
-zip -FSr /var/www/source/files/pdf-cloud.zip *
+zip -FSr /var/www/source/files/examples-mirror.zip *
+
+echo Repo 5...
+cd /var/www/source/files/gshslatexintro-mirror
+git pull
+zip -FSr /var/www/source/files/gshslatexintro-mirror.zip *
 
 echo Time...
 date > /var/www/source/updated.txt
