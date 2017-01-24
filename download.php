@@ -19,7 +19,7 @@ description: "LaTeX is a high-quality typesetting system; it includes features d
 		R&E, 졸업논문, 휴텍 양식 등
 	</div>
 	<div class="col cell1of3">
-		<a href="files/examples.zip" class="btn"><b>예시 코드</b>(<?php echo $size_2 ?>MB)</a>
+		<a href="files/examples.zip" class="btn"><b>예제</b>(<?php echo $size_2 ?>MB)</a>
 		<br>
 		매나니 화성학 강의 등
 	</div>

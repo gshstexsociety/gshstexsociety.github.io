@@ -21,7 +21,7 @@ description: "경기과학고 교내 텍 사용 문화를 활성화하기 위한
   </div>
   <div class="col cell1of2 news">
     <h1>경기과학고 텍 사용자협회</h1>
-    이 사이트를 통해서 교내 R&E 보고서 및 졸업논문 양식, 텍 입문서, 예시 코드 등을 <a href="{{ "/다운로드/" | prepend: site.baseurl }}">다운</a>받을 수 있습니다.
+    이 사이트를 통해서 교내 R&E 보고서 및 졸업논문 양식, 텍 입문서, 예제 등을 <a href="{{ "/다운로드/" | prepend: site.baseurl }}">다운</a>받을 수 있습니다.
     <br>
     <small><a href="{{ "/참여/" | prepend: site.baseurl }}">자세히 알아보기</a></small>
     <br>
