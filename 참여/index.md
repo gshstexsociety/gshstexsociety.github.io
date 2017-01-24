@@ -16,6 +16,8 @@ permalink: /참여/
 자료 또는 양식에 문제가 있을 경우, issues 를 통해 제보해 주시거나 직접 수정하여 Pull Request해 주십시오.
 그 외에도, 협회의 GitHub에 가입하는 것을 적극 고려해 주십시오.
 
+협회 활동에 참여하실 경우 <a href="http://latex.gs.hs.kr/files//An-Introduction-to-LaTeX/An%20Introduction%20to%20LaTeX-ver2.0_beamer/GSHSLaTeXIntro_Contribution.pdf">협회 참여 가이드</a>를 꼭 읽어 주십시오.
+
 <div class="row">
   <div class="col cell1of2">
     <h2>협회 개발진</h2>

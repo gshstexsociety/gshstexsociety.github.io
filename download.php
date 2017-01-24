@@ -27,16 +27,20 @@ description: "LaTeX is a high-quality typesetting system; it includes features d
 	<div class="col cell1of3">
 		<a href="files/An-Introduction-to-LaTeX.zip" class="btn"><b>텍 입문서</b>(<?php echo $size_3 ?>MB)</a>
 		<br>
-		v2.0 - Day0, Day1, Day2
+		v2.0 - Day0,1,2,3 / TeX Cheatsheet / 설치 가이드, 협회 참여 가이드
 	</div>
 </div>
 <hr>
 <div class="row">
 	<div class="col cell1of3">
-		<a href="files/gshslatexintro-mirror.zip" class="btn"><b>양식-mirror 모음집</b>(<?php echo $size_5 ?>MB)</a>
+		<a href="files/gshslatexintro-mirror.zip" class="btn"><b>양식-mirror</b>(<?php echo $size_5 ?>MB)</a>
+		<br>
+		컴파일된 pdf파일 포함 버전
 	</div>
 	<div class="col cell1of3">
-		<a href="files/examples-mirror.zip" class="btn"><b>예제-mirror 모음집</b>(<?php echo $size_4 ?>MB)</a>
+		<a href="files/examples-mirror.zip" class="btn"><b>예제-mirror</b>(<?php echo $size_4 ?>MB)</a>
+		<br>
+		컴파일된 pdf파일 포함 버전
 	</div>
 	<div class="col cell1of3">
 		<a href="fileList.php" class="btn">전체 파일 목록</a>
