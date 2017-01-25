@@ -31,7 +31,7 @@ permalink: /참여/
     <br>
     32기 : <a href="https://github.com/koosaga">구재현</a>, <a href="https://github.com/seungwonpark">박승원</a>, <a href="https://github.com/CSNE">양찬솔</a>, <a href="https://github.com/planetarynebula">유재민</a>, <a href="https://github.com/evenharder">이상헌</a>, <a href="https://github.com/LeeJuChan">이주찬</a>, (황동욱)
     <br>
-    33기 : <a href="https://github.com/namnamseo">신승원</a>, <a href="https://github.com/MariAli-Lover">이준수</a>, <a href="https://github.com/SenikaRu">최연규</a>
+    33기 : <a href="https://github.com/Kim-kyeongtae">김경태</a>, <a href="https://github.com/namnamseo">신승원</a>, <a href="https://github.com/MariAli-Lover">이준수</a>, <a href="https://github.com/SenikaRu">최연규</a>
     <br>
     34기 : <a href="https://github.com/youngikSong">송영익</a>, <a href="https://github.com/sunjae627">이선재</a>
     <br>
@@ -46,7 +46,7 @@ permalink: /참여/
     텍 사용에 관심이 있는 경기과학고 구성원(재학생, 교직원, 졸업생)이라면,
     본 협회의 <a href="https://github.com/gshslatexintro">GitHub</a>에 가입하십시오. 이러한 오픈 소스 활동은 자신에게도 큰 도움이 됩니다.
     <br>
-    <b>참여 문의</b> : <a href="https://github.com/seungwonpark">현 회장(32기 박승원)</a>, <a href="https://github.com/WoolSeo">서울 선생님</a>
+    <b>참여 문의</b> : <a href="https://github.com/seungwonpark">1대 회장(32기 박승원)</a>, <a href="https://github.com/WoolSeo">서울 선생님</a>
     </p>
     <h2><a href="https://github.com/gshslatexintro/gshslatexintro/wiki/History-of-GSHS-TeX-Society">협회 역사</a></h2>
   </div>
