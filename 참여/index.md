@@ -31,7 +31,7 @@ permalink: /참여/
     <br>
     32기 : <a href="https://github.com/koosaga">구재현</a>, <a href="https://github.com/seungwonpark">박승원</a>, <a href="https://github.com/CSNE">양찬솔</a>, <a href="https://github.com/planetarynebula">유재민</a>, <a href="https://github.com/evenharder">이상헌</a>, <a href="https://github.com/LeeJuChan">이주찬</a>, (황동욱)
     <br>
-    33기 : <a href="https://github.com/Kim-kyeongtae">김경태</a>, <a href="https://github.com/namnamseo">신승원</a>, <a href="https://github.com/MariAli-Lover">이준수</a>, <a href="https://github.com/SenikaRu">최연규</a>
+    33기 : <a href="https://github.com/Kim-kyeongtae">김경태</a>, <a href="https://github.com/namnamseo">신승원</a>, <a href="https://github.com/MariAli-Lover">이준수</a>, <a href="https://github.com/SenikaRu">최연규</a>
     <br>
     34기 : <a href="https://github.com/youngikSong">송영익</a>, <a href="https://github.com/sunjae627">이선재</a>
     <br>
