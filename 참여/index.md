@@ -33,7 +33,9 @@ permalink: /참여/
     <br>
     33기 : <a href="https://github.com/Kim-kyeongtae">김경태</a>, <a href="https://github.com/namnamseo">신승원</a>, <a href="https://github.com/Qyubey">이재연</a>, <a href="https://github.com/MariAli-Lover">이준수</a>, <a href="https://github.com/SenikaRu">최연규</a>
     <br>
-    34기 : <a href="https://github.com/youngikSong">송영익</a>, <a href="https://github.com/sunjae627">이선재</a>
+    34기 : <a href="https://github.com/youngikSong">송영익</a>, <a href="https://github.com/sunjae627">이선재</a>, <a href="https://github.com/PhysSong">송현진</a>
+    <br>
+    35기 : <a href="https://github.com/Jungmin2">이정민</a>
     <br>
     (가나다순, 누락/변경 시 제보 혹은 직접 추가바람)
     <br>
