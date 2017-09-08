@@ -27,13 +27,13 @@ permalink: /참여/
     <br>
     28기 : <a href="https://github.com/simnalamburt">김지현</a>
     <br>
-    31기 : <a href="https://github.com/KENNYSOFT">박현민</a>, <a href="https://github.com/gsCEA">안청응</a>, <a href="https://github.com/hletrd">윤지용</a>
+    31기 : <a href="https://github.com/KENNYSOFT">박현민</a>, <a href="https://github.com/gsCEA">안청응</a>, <a href="https://github.com/hletrd">윤지용</a>, <a href="https://github.com/Feb30th">이재웅</a>
     <br>
     32기 : <a href="https://github.com/koosaga">구재현</a>, <a href="https://github.com/seungwonpark">박승원</a>, <a href="https://github.com/CSNE">양찬솔</a>, <a href="https://github.com/planetarynebula">유재민</a>, <a href="https://github.com/evenharder">이상헌</a>, <a href="https://github.com/LeeJuChan">이주찬</a>, (황동욱)
     <br>
     33기 : <a href="https://github.com/Kim-kyeongtae">김경태</a>, <a href="https://github.com/namnamseo">신승원</a>, <a href="https://github.com/Qyubey">이재연</a>, <a href="https://github.com/MariAli-Lover">이준수</a>, <a href="https://github.com/SenikaRu">최연규</a>
     <br>
-    34기 : <a href="https://github.com/youngikSong">송영익</a>, <a href="https://github.com/sunjae627">이선재</a>, <a href="https://github.com/PhysSong">송현진</a>
+    34기 : <a href="https://github.com/youngikSong">송영익</a>, <a href="https://github.com/PhysSong">송현진</a>, <a href="https://github.com/sunjae627">이선재</a>, <a href="https://github.com/moyamong">정우현</a>
     <br>
     35기 : <a href="https://github.com/Jungmin2">이정민</a>
     <br>
