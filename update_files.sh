@@ -1,30 +1,28 @@
+#!/usr/bin/env bash
+# Git repo information
+org_url=https://github.com/gshslatexintro
+repo_list="An-Introduction-to-LaTeX examples examples-mirror gshs-format gshs-format-mirror"
+
+find_branch="git symbolic-ref -q HEAD"
+find_upstream="git for-each-ref --format=%(upstream:short)"
+
 echo Started updating files...
 date
 
-echo Repo 1...
-cd /var/www/source/files/An-Introduction-to-LaTeX
-git pull
-zip -FSr /var/www/source/files/An-Introduction-to-LaTeX.zip *
+cd /var/www/source/files/
 
-echo Repo 2...
-cd /var/www/source/files/examples
-git pull
-zip -FSr /var/www/source/files/examples.zip *
-
-echo Repo 3...
-cd /var/www/source/files/gshslatexintro
-git pull
-zip -FSr /var/www/source/files/gshslatexintro.zip *
-
-echo Repo 4...
-cd /var/www/source/files/examples-mirror
-git pull
-zip -FSr /var/www/source/files/examples-mirror.zip *
-
-echo Repo 5...
-cd /var/www/source/files/gshslatexintro-mirror
-git pull
-zip -FSr /var/www/source/files/gshslatexintro-mirror.zip *
+for repo in $repo_list; do
+echo Repo $repo...
+if [ ! -d $repo ]; then
+git clone $org_url/$repo
+fi
+pushd $repo
+git fetch --all
+echo Checkout $($find_upstream $($find_branch))...
+git reset --hard $($find_upstream $($find_branch))
+zip -FSr ../$repo.zip *
+popd
+done
 
 echo Time...
 date > /var/www/source/updated.txt
