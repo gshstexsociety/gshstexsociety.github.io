@@ -12,7 +12,7 @@ permalink: /설치/
   <div class="col cell1of2">
     <h2>LaTeX 엔진 설치</h2>
     
-    LaTeX은 <a href="{{site.baseurl}}/lppl/">LaTeX Project Public License (LPPL)</a>하에 <a href="http://www.debian.org/intro/free">프리웨어</a>로 배포되고 있습니다.
+    LaTeX은 <a href="{{site.baseurl}}/lppl/">LaTeX Project Public License (LPPL)</a>하에 <a href="http://www.debian.org/intro/free">자유 소프트웨어</a>로 배포되고 있습니다.
     Windows 기준의
     LaTeX 설치 방법은 <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation.md">가이드</a> 또는
     <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation_images.md">이미지가 첨부된 가이드</a>를 참고하십시오.
