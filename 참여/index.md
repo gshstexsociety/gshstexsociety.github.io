@@ -37,7 +37,7 @@ permalink: /참여/
     <br>
     35기 : <a href="https://github.com/andy1902">고동현</a>, <a href="https://github.com/sebinkim">김세빈</a>, <a href="https://github.com/Jungmin2">이정민</a>
     <br>
-    37기 : <a href="https://github.com/junukwon7">권준우</a>
+    37기 : <a href="https://github.com/junukwon7">권준우</a>, <a href="https://github.com/hyukgyu03">송혁규</a>
     <br>
     (가나다순, 누락/변경 시 제보 혹은 직접 추가바람)
     <br>
