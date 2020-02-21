@@ -23,7 +23,7 @@ permalink: /참여/
     <h2>협회 개발진</h2>
     <p>현재 본 협회의 개발진은 다음과 같습니다:
     <br>
-    교직원 : <a href="https://github.com/mchinook">목진욱</a>, <a href="https://github.com/guitar79">박기현</a>, <a href="https://github.com/WoolSeo">서울</a>, (정민석)
+    교직원 : <a href="https://github.com/mchinook">목진욱(전출)</a>, <a href="https://github.com/guitar79">박기현</a>, <a href="https://github.com/WoolSeo">서울</a>, 정민석(전출)
     <br>
     28기 : <a href="https://github.com/simnalamburt">김지현</a>
     <br>
@@ -36,6 +36,8 @@ permalink: /참여/
     34기 : <a href="https://github.com/youngikSong">송영익</a>, <a href="https://github.com/PhysSong">송현진</a>, <a href="https://github.com/sunjae627">이선재</a>, <a href="https://github.com/moyamong">정우현</a>
     <br>
     35기 : <a href="https://github.com/andy1902">고동현</a>, <a href="https://github.com/sebinkim">김세빈</a>, <a href="https://github.com/Jungmin2">이정민</a>
+    <br>
+    36기 : 성재용
     <br>
     37기 : <a href="https://github.com/junukwon7">권준우</a>, <a href="https://github.com/hyukgyu03">송혁규</a>
     <br>
@@ -50,7 +52,7 @@ permalink: /참여/
     텍 사용에 관심이 있는 경기과학고 구성원(재학생, 교직원, 졸업생)이라면,
     본 협회의 <a href="https://github.com/gshslatexintro">GitHub</a>에 가입하십시오. 이러한 오픈 소스 활동은 자신에게도 큰 도움이 됩니다.
     <br>
-    <b>참여 문의</b> : <a href="https://github.com/Jungmin2">4대 회장(35기 이정민)</a>, <a href="https://github.com/WoolSeo">서울 선생님</a>
+    <b>참여 문의</b> : <a href="https://github.com/Jungmin2">4대 회장(35기 이정민)</a>, <a href="https://github.com/WoolSeo">서울 선생님</a>, <a href="https://github.com/guitar79">박기현 선생님</a>
     </p>
     <h2><a href="https://github.com/gshslatexintro/gshslatexintro/wiki/History-of-GSHS-TeX-Society">협회 역사</a></h2>
   </div>
