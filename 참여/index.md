@@ -39,7 +39,7 @@ permalink: /참여/
     <br>
     36기 : <a href="https://github.com/buttercrab">성재용</a>, <a href="https://github.com/gs18113">최승민</a>
     <br>
-    37기 : <a href="https://github.com/junukwon7">권준우</a>, <a href="https://github.com/hyukgyu03">송혁규</a>
+    37기 : <a href="https://github.com/junukwon7">권준우</a>, <a href="https://github.com/hyukgyu03">송혁규</a>, <a href="https://github.com/polaris041437">한수민</a>
     <br>
     (가나다순, 누락/변경 시 제보 혹은 직접 추가바람)
     <br>
@@ -52,7 +52,7 @@ permalink: /참여/
     텍 사용에 관심이 있는 경기과학고 구성원(재학생, 교직원, 졸업생)이라면,
     본 협회의 <a href="https://github.com/gshslatexintro">GitHub</a>에 가입하십시오. 이러한 오픈 소스 활동은 자신에게도 큰 도움이 됩니다.
     <br>
-    <b>참여 문의</b> : 5대 회장(36기 <a href="https://gitub.com/buttercrab">성재용</a>), <a href="https://github.com/guitar79">박기현 선생님</a>
+    <b>참여 문의</b> : 5대 회장(36기) <a href="https://gitub.com/buttercrab">성재용</a>, <a href="https://github.com/guitar79">박기현 선생님</a>
     </p>
     <h2><a href="https://github.com/gshslatexintro/gshslatexintro/wiki/History-of-GSHS-TeX-Society">협회 역사</a></h2>
   </div>
