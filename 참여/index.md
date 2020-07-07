@@ -39,7 +39,7 @@ permalink: /참여/
     <br>
     36기 : <a href="https://github.com/buttercrab">성재용</a>, <a href="https://github.com/gs18113">최승민</a>
     <br>
-    37기 : <a href="https://github.com/junukwon7">권준우</a>, <a href="https://github.com/arnold518">박재민</a>, a href="https://github.com/hyukgyu03">송혁규</a>, <a href="https://github.com/polaris041437">한수민</a>
+    37기 : <a href="https://github.com/junukwon7">권준우</a>, <a href="https://github.com/arnold518">박재민</a>, <a href="https://github.com/hyukgyu03">송혁규</a>, <a href="https://github.com/polaris041437">한수민</a>
     <br>
     (가나다순, 누락/변경 시 제보 혹은 직접 추가바람)
     <br>
