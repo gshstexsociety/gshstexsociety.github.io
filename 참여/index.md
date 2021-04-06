@@ -52,7 +52,7 @@ permalink: /참여/
     텍 사용에 관심이 있는 경기과학고 구성원(재학생, 교직원, 졸업생)이라면,
     본 협회의 <a href="https://github.com/gshslatexintro">GitHub</a>에 가입하십시오. 이러한 오픈 소스 활동은 자신에게도 큰 도움이 됩니다.
     <br>
-    <b>참여 문의</b> : 5대 회장 <a href="https://gitub.com/hyukgyu03">송혁규(37기)</a>, <a href="https://github.com/guitar79">박기현 선생님</a>, <a href="https://www.facebook.com/gshstexsociety">경기과학고 TeX 사용자 협회 페이스북 페이지</a>
+    <b>참여 문의</b> : 6대 회장 <a href="https://gitub.com/hyukgyu03">송혁규(37기)</a>, <a href="https://github.com/guitar79">박기현 선생님</a>, <a href="https://www.facebook.com/gshstexsociety">경기과학고 TeX 사용자 협회 페이스북 페이지</a>
     </p>
     <h2><a href="https://github.com/gshslatexintro/gshslatexintro/wiki/History-of-GSHS-TeX-Society">협회 역사</a></h2>
   </div>
