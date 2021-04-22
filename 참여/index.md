@@ -24,6 +24,7 @@ permalink: /참여/
     <p>현재 본 협회의 개발진은 다음과 같습니다:
     <br>
     교직원 : <a href="https://github.com/mchinook">(목진욱)</a>, <a href="https://github.com/guitar79">박기현</a>, <a href="https://github.com/WoolSeo">(서울)</a>, (정민석)
+    highbt81@gmail.com
     <br>
     28기 : <a href="https://github.com/simnalamburt">김지현</a>
     <br>
