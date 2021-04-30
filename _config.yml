@@ -1,6 +1,6 @@
 # Site settings
 title: latex.gs.hs.kr
-baseurl: "http://latex.gs.hs.kr"
+baseurl: ""
 url: "http://latex.gs.hs.kr"
 
 # Build settings
