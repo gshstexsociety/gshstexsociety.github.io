@@ -54,6 +54,15 @@ github:
 
 이후 http://localhost:4000 으로 접속하면 됩니다.
 
+## 갱신
+```update_files.sh```와 ```update_posts.sh```를 실행하면, 온라인상에서 수정된 사항들을 갱신할 수 있습니다. (글 갱신 등.)
+
+위 실행파일들을 [cron](https://crontab.guru/) 등을 이용해 주기적으로 실행하면 됩니다. 현재 갱신 주기는 1분입니다.
+
+
+##CMS
+[CMS](http://latex.gs.hs.kr/cms/) 에서 글을 작성할 수 있습니다. gshslatexintro에 소속된 github 계정이 필요합니다. 만약 password가 작동하지 않거나 404 에러가 발생한다면 [github token](https://github.com/settings/tokens)에서 ```repo``` 권한을 가진 ```token```을 생성해 암호란에 입력하면 됩니다. 
+
 
 ## 주의
 **경고 : MS 메모장으로는 `.md` 파일을 편집하지 마시오.**
