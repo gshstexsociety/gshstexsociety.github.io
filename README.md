@@ -4,6 +4,11 @@
 
 ## 설치
 이 사이트는 Jekyll을 이용하여 구동됩니다. local 환경에서 운영하려는 경우 다음 과정을 통해 운영할 수 있습니다.
+### 저장소 복제
+```
+git clone https://github.com/gshslatexintro/latex.gs.hs.kr
+cd latex.gs.hs.kr
+```
 ### 환경 설치
 ```
 sudo apt-get install ruby-dev gcc make php build-essential
@@ -11,12 +16,8 @@ sudo apt-get install ruby-dev gcc make php build-essential
 ### Jekyll 설치
 ```
 sudo gem install jekyll bundler
+# cd /path/to/git/repo
 sudo bundle install
-```
-### 저장소 복제
-```
-git clone https://github.com/gshslatexintro/latex.gs.hs.kr
-cd latex.gs.hs.kr
 ```
 ## 환경 구성
 local 환경에서 올바르게 운영하려면 저장소 안의 ```_config.yml``` 파일을 아래와 같이 ```baseurl```과 ```url``` 부분을 수정해야 합니다.
