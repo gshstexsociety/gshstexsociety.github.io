@@ -60,7 +60,7 @@ github:
 위 실행파일들을 [cron](https://crontab.guru/) 등을 이용해 주기적으로 실행하면 됩니다. 현재 갱신 주기는 1분입니다.
 
 
-##CMS
+## 글 작성
 [CMS](http://latex.gs.hs.kr/cms/) 에서 글을 작성할 수 있습니다. gshslatexintro에 소속된 github 계정이 필요합니다. 만약 password가 작동하지 않거나 404 에러가 발생한다면 [github token](https://github.com/settings/tokens)에서 ```repo``` 권한을 가진 ```token```을 생성해 암호란에 입력하면 됩니다. 
 
 
