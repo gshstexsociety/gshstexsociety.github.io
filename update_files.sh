@@ -9,7 +9,7 @@ find_upstream="git for-each-ref --format=%(upstream:short)"
 echo Started updating files...
 date
 
-cd /var/www/source/files/
+cd /var/www/html/files/
 
 for repo in $repo_list; do
 echo Repo $repo...
