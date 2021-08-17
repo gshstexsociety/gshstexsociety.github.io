@@ -12,8 +12,7 @@ permalink: /설치/
   <div class="col cell1of3">
     <h2>Overleaf 이용</h2>
     
-    <a href="https://www.overleaf.com/">Overleaf</a>는 온라인 웹 기반 LaTeX 편집기입니다. 직접 컴퓨터에 LaTeX을 설치할 필요가 없기에 이용이 간편하며
-    각종 컴파일 설정 또한 조작이 가능합니다. 어디서든 편집할 수 있고 공동작업도 가능하며 다른 사람들이 만든 양식을을 찾고 복제할 수 있기에 편리합니다.
+    <a href="https://www.overleaf.com/">Overleaf</a>는 온라인 웹 기반 LaTeX 편집기입니다. 직접 컴퓨터에 LaTeX을 설치할 필요가 없고 공동작업이 가능하기에 편리합니다.
   </div>
   <div class="col cell2of3">
     <h2>LaTeX 엔진 설치</h2>
@@ -26,9 +25,7 @@ permalink: /설치/
   <div class="col cell3of3">
     <h2>TeXstudio 설치</h2>
     
-    <a href="http://texstudio.org">TeXStudio</a> 
-    <br>
-    TeXstudio는 지구상에서 가장 효율적인 텍 문서 편집기입니다.
+    <a href="http://texstudio.org">TeXStudio</a>는 지구상에서 가장 효율적인 텍 문서 편집기입니다.
     LaTeX 엔진 설치시 TeXworks 또는 TeXshop이 기본으로 제공되지만, TeXstudio를 강력히 권장합니다.
   </div>
 </div>
