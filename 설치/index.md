@@ -10,10 +10,8 @@ permalink: /설치/
   <h2>Overleaf 사용</h2>
   
   <a href="https://www.overleaf.com/">Overleaf</a>는 온라인 LaTeX 편집기입니다. 사용자가 직접 환경을 설치하고 구성할 필요가 없고 사이트에서 간편하게 설정할 수 있습니다. 다른 사용자가 공유한 양식을 쉽게 가져올 수 있습니다. 사용하려면 인터넷이 필요하지만 자동으로 저장되고 공동 작업이 가능하기에 초급자부터 고급 사용자까지 편하게 이용할 수 있기에 추천합니다.
-
-
-
 <hr>
+
 # 컴표터에 LaTeX 설치하기
 <div class="row">
   <div class="col cell1of2">
