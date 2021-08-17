@@ -10,15 +10,20 @@ permalink: /설치/
 
 <div class="row">
   <div class="col cell1of2">
-    <h2>Overleaf 이용</h2>
+    <h2>LaTeX 엔진 설치</h2>
     
-    <a href="https://www.overleaf.com/">Overleaf</a>는 온라인 웹 기반 LaTeX 편집기입니다. 직접 컴퓨터에 LaTeX을 설치할 필요가 없어 사용하기 쉽습니다. 최신 버전의 여러 컴파일러를 쉽게 적용할 수 있으며 공동작업이 가능하기에 초보자부터 숙련자 모두에게 추천합니다.
-  </div>
-  <div class="col cell2of2">
-    <h2>LaTeX과 편집기 설치</h2>
     LaTeX은 <a href="{{site.baseurl}}/lppl/">LaTeX Project Public License (LPPL)</a>하에 <a href="http://www.debian.org/intro/free">자유 소프트웨어</a>로 배포되고 있습니다.
-    설치 방법은 <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation.md">문서</a> 또는
+    운영체제별
+    LaTeX 설치 방법은 <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation.md">가이드</a> 또는
     <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation_images.md">이미지가 첨부된 가이드</a>를 참고하십시오.
+  </div>
+  <div class="col cell1of2">
+    <h2>TeXstudio 설치</h2>
+    
+    <a href="http://texstudio.org">http://texstudio.org</a> 
+    <br>
+    TeXstudio는 지구상에서 가장 효율적인 텍 문서 편집기입니다.
+    LaTeX 엔진 설치시 TeXworks 또는 TeXshop이 기본으로 제공되지만, TeXstudio를 강력히 권장합니다.
   </div>
 </div>
   
