@@ -9,7 +9,7 @@ find_upstream="git for-each-ref --format=%(upstream:short)"
 echo Started updating files...
 date
 
-cd /var/www/html/files/
+cd /var/www/source/files/
 
 for repo in $repo_list; do
 echo Repo $repo...
@@ -25,8 +25,8 @@ popd
 done
 
 echo Time...
-date > /var/www/html/updated.txt
+date > /var/www/source/updated.txt
 
 echo Building website...
-cd /var/www/html
+cd /var/www/source
 jekyll build
