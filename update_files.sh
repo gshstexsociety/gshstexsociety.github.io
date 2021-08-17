@@ -25,8 +25,8 @@ popd
 done
 
 echo Time...
-date > /var/www/source/updated.txt
+date > /var/www/html/updated.txt
 
 echo Building website...
-cd /var/www/source
+cd /var/www/html
 jekyll build
