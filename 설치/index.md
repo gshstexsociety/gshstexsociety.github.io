@@ -9,19 +9,17 @@ permalink: /설치/
 # LaTeX 사용환경 준비하기
 
 <div class="row">
-  <div class="col cell1of3">
+  <div class="col cell1of2">
     <h2>Overleaf 이용</h2>
     
     <a href="https://www.overleaf.com/">Overleaf</a>는 온라인 웹 기반 LaTeX 편집기입니다. 직접 컴퓨터에 LaTeX을 설치할 필요가 없고 공동작업이 가능하기에 편리합니다.
   </div>
-  <div class="col cell2of3">
+  <div class="col cell2of2">
     <h2>LaTeX 엔진 설치</h2>
     
     LaTeX은 <a href="{{site.baseurl}}/lppl/">LaTeX Project Public License (LPPL)</a>하에 <a href="http://www.debian.org/intro/free">자유 소프트웨어</a>로 배포되고 있습니다.
     설치 방법은 <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation.md">문서</a> 또는
     <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation_images.md">이미지가 첨부된 가이드</a>를 참고하십시오.
-  </div>
-  <div class="col cell3of3">
     <h2>TeXstudio 설치</h2>
     
     <a href="http://texstudio.org">TeXStudio</a>는 효율적인 텍 문서 편집기입니다.
