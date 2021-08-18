@@ -40,7 +40,9 @@ url: "127.0.0.1"
 ## 실행
 위 작업이 완료되었다면 아래 명령어를 통해 사이트를 실행할 수 있습니다.
 
-```sudo jekyll serve```
+```
+sudo jekyll serve
+```
 
 이후 http://localhost 나 http://localhost:4000 으로 접속하면 됩니다.
 
