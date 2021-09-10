@@ -18,6 +18,8 @@ permalink: /참여/
 
 협회 활동에 참여하실 경우 <a href="http://latex.gs.hs.kr/files//An-Introduction-to-LaTeX/An%20Introduction%20to%20LaTeX-ver2.0_beamer/GSHSLaTeXIntro_Contribution.pdf">협회 참여 가이드</a>를 꼭 읽어 주십시오.
 
+6대 회장 <a href="https://gitub.com/hyukgyu03">송혁규(37기)</a>, 6대 웹마스터 <a href="https://gitub.com/junukwon7">권준우(37기)
+
 <div class="row">
   <div class="col cell1of2">
     <h2>협회 개발진</h2>
@@ -52,7 +54,7 @@ permalink: /참여/
     텍 사용에 관심이 있는 경기과학고 구성원(재학생, 교직원, 졸업생)이라면,
     본 협회의 <a href="https://github.com/gshslatexintro">GitHub</a>에 가입하십시오. 이러한 오픈 소스 활동은 자신에게도 큰 도움이 됩니다.
     <br>
-    <b>참여 문의</b> : 6대 회장 <a href="https://gitub.com/hyukgyu03">송혁규(37기)</a>, <a href="https://github.com/guitar79">박기현 선생님</a>, <a href="https://www.facebook.com/gshstexsociety">경기과학고 TeX 사용자 협회 페이스북 페이지</a>
+    <b>참여 문의</b> : 6대 회장 <a href="https://gitub.com/hyukgyu03">송혁규(37기)</a>, 6대 웹마스터 <a href="https://gitub.com/junukwon7">권준우(37기)</a>, <a href="https://github.com/guitar79">박기현 선생님</a>, <a href="https://www.facebook.com/gshstexsociety">경기과학고 TeX 사용자 협회 페이스북 페이지</a>
     </p>
     <h2><a href="https://github.com/gshslatexintro/gshslatexintro/wiki/History-of-GSHS-TeX-Society">협회 역사</a></h2>
   </div>
