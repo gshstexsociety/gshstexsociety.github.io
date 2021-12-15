@@ -43,7 +43,7 @@ permalink: /참여/
     <br>
     37기 : <a href="https://github.com/junukwon7">권준우</a>, <a href="https://github.com/arnold518">박재민</a>, <a href="https://github.com/hyukgyu03">송혁규</a>, <a href="https://github.com/polaris041437">한수민</a>
     <br>
-    38기 : <a href="https://github.com/gs20036">김진휘</a>, <a href="https://github.com/">박건호</a>, <a href="https://github.com/gs20056">석연우</a>, <a href="https://github.com/Yoonsangsang">윤상</a>
+    38기 : <a href="https://github.com/gs20036">김진휘</a>, <a href="https://github.com/Rascal0902">박건호</a>, <a href="https://github.com/gs20056">석연우</a>, <a href="https://github.com/Yoonsangsang">윤상</a>
     <br>
     39기 : <a href="https://github.com/">이동현</a>
     <br>
