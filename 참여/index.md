@@ -45,7 +45,7 @@ permalink: /참여/
     <br>
     38기 : <a href="https://github.com/gs20013">길상호</a>, <a href="https://github.com/gs20036">김진휘</a>, <a href="https://github.com/Rascal0902">박건호</a>, <a href="https://github.com/gs20056">석연우</a>, <a href="https://github.com/Yoonsangsang">윤상</a>, <a href="https://github.com/Rarenick2">이관우</a>
     <br>
-    39기 : <a href="https://github.com/">이동현</a>, <a href="https://github.com/">천성훈</a>
+    39기 : <a href="https://github.com/">이동현</a>, <a href="https://github.com/meisterjok32">천성훈</a>
     <br>
     외부 : <a href="https://github.com/DyneAlpha">(김다인)</a>
     <br>
