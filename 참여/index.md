@@ -18,7 +18,7 @@ permalink: /참여/
 
 협회 활동에 참여하실 경우 <a href="http://latex.gs.hs.kr/files//An-Introduction-to-LaTeX/An%20Introduction%20to%20LaTeX-ver2.0_beamer/GSHSLaTeXIntro_Contribution.pdf">협회 참여 가이드</a>를 꼭 읽어 주십시오.
 
-6대 회장 <a href="https://gitub.com/hyukgyu03">송혁규(37기)</a>, 6대 웹마스터 <a href="https://gitub.com/junukwon7">권준우(37기)
+7대 회장 <a href="https://github.com/hyukgyu03">윤상(38기)</a>, 7대 부회장 <a href="https://github.com/toadsong8451">송혁중(38기)</a> 7대 웹마스터 <a href="https://github.com/Rarenick2">이관우(38기)</a>
 
 <div class="row">
   <div class="col cell1of2">
