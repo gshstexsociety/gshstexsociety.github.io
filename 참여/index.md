@@ -47,7 +47,7 @@ permalink: /참여/
     <br>
     39기 : <a href="https://github.com/">이동현</a>, <a href="https://github.com/meisterjok32">천성훈</a>
     <br>
-    40기 : <a href="https://github.com/gs22078">이준석</a>
+    40기 : <a href="https://github.com/gs22078">이준석</a>, <a href="https://github.com/yoonmyeong673">윤명</a>
     <br>
     외부 : <a href="https://github.com/DyneAlpha">(김다인)</a>
     <br>
