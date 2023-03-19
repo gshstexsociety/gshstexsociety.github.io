@@ -47,7 +47,7 @@ permalink: /참여/
     <br>
     39기 : <a href="https://github.com/">이동현</a>, <a href="https://github.com/meisterjok32">천성훈</a>
     <br>
-    40기 : <a href="https://github.com/gs22078">이준석</a>, <a href="https://github.com/yoonmyeong673">윤명</a>
+    40기 : <a href="https://github.com/yoonmyeong673">윤명</a>, <a href="https://github.com/gs22078">이준석</a>
     <br>
     외부 : <a href="https://github.com/DyneAlpha">(김다인)</a>
     <br>
@@ -62,7 +62,7 @@ permalink: /참여/
     텍 사용에 관심이 있는 경기과학고 구성원(재학생, 교직원, 졸업생)이라면,
     본 협회의 <a href="https://github.com/gshslatexintro">GitHub</a>에 가입하십시오. 이러한 오픈 소스 활동은 자신에게도 큰 도움이 됩니다.
     <br>
-    <b>참여 문의</b> : 7대 회장 <a href="https://github.com/hyukgyu03">윤상(38기)</a>, 7대 부회장 <a href="https://github.com/toadsong8451">송혁중(38기)</a> 7대 웹마스터 <a href="https://github.com/Rarenick2">이관우(38기)</a>, <a href="https://github.com/guitar79">박기현 선생님</a>, <a href="https://www.facebook.com/gshstexsociety">경기과학고 TeX 사용자 협회 페이스북 페이지</a>
+    <b>참여 문의</b> : 8대 회장 <a href="https://github.com/meisterjok32">천성훈(39기)</a>, 8대 부회장 남도현(39기), 8대 웹마스터 이동현(39기), <a href="https://github.com/guitar79">박기현 선생님</a>, <a href="https://www.facebook.com/gshstexsociety">경기과학고 TeX 사용자 협회 페이스북 페이지</a>
     </p>
     <h2><a href="https://github.com/gshslatexintro/gshslatexintro/wiki/History-of-GSHS-TeX-Society">협회 역사</a></h2>
   </div>
