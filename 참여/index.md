@@ -18,7 +18,7 @@ permalink: /참여/
 
 협회 활동에 참여하실 경우 <a href="http://latex.gs.hs.kr/files//An-Introduction-to-LaTeX/An%20Introduction%20to%20LaTeX-ver2.0_beamer/GSHSLaTeXIntro_Contribution.pdf">협회 참여 가이드</a>를 꼭 읽어 주십시오.
 
-7대 회장 <a href="https://github.com/hyukgyu03">윤상(38기)</a>, 7대 부회장 <a href="https://github.com/toadsong8451">송혁중(38기)</a> 7대 웹마스터 <a href="https://github.com/Rarenick2">이관우(38기)</a>
+8대 회장 <a href="https://github.com/meisterjok32">천성훈(39기)</a>, 8대 부회장 <a href="https://github.com/">남도현(39기)</a> 8대 웹마스터 <a href="https://github.com/">이동현(38기)</a>
 
 <div class="row">
   <div class="col cell1of2">
@@ -45,7 +45,7 @@ permalink: /참여/
     <br>
     38기 : <a href="https://github.com/gs20013">길상호</a>, <a href="https://github.com/gs20036">김진휘</a>, <a href="https://github.com/Rascal0902">박건호</a>, <a href="https://github.com/gs20056">석연우</a>, <a href="https://github.com/Yoonsangsang">윤상</a>, <a href="https://github.com/Rarenick2">이관우</a>, <a href="https://github.com/toadsong8451">송혁중</a>
     <br>
-    39기 : <a href="https://github.com/">이동현</a>, <a href="https://github.com/meisterjok32">천성훈</a>
+    39기 : <a href="https://github.com/">남도현</a>, <a href="https://github.com/">이동현</a>, <a href="https://github.com/meisterjok32">천성훈</a>
     <br>
     40기 : <a href="https://github.com/yoonmyeong673">윤명</a>, <a href="https://github.com/gs22078">이준석</a>
     <br>
