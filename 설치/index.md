@@ -19,8 +19,8 @@ permalink: /설치/
     
     LaTeX은 <a href="{{site.baseurl}}/lppl/">LaTeX Project Public License (LPPL)</a>하에 <a href="http://www.debian.org/intro/free">자유 소프트웨어</a>로 배포되고 있습니다.
     운영체제별
-    LaTeX 설치 방법은 <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation.md">가이드</a> 또는
-    <a href="https://github.com/gshslatexintro/An-Introduction-to-LaTeX/blob/master/Installation_images.md">이미지가 첨부된 가이드</a>를 참고하십시오.
+    LaTeX 설치 방법은 <a href="https://github.com/gshstexsociety/An-Introduction-to-LaTeX/blob/master/Installation.md">가이드</a> 또는
+    <a href="https://github.com/gshstexsociety/An-Introduction-to-LaTeX/blob/master/Installation_images.md">이미지가 첨부된 가이드</a>를 참고하십시오.
   </div>
   <div class="col cell1of2">
     <h2>TeXstudio 설치</h2>

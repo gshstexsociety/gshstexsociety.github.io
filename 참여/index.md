@@ -60,10 +60,10 @@ permalink: /참여/
     <h2>협회에 참여하기</h2>
     <p>
     텍 사용에 관심이 있는 경기과학고 구성원(재학생, 교직원, 졸업생)이라면,
-    본 협회의 <a href="https://github.com/gshslatexintro">GitHub</a>에 가입하십시오. 이러한 오픈 소스 활동은 자신에게도 큰 도움이 됩니다.
+    본 협회의 <a href="https://github.com/gshstexsociety">GitHub</a>에 가입하십시오. 이러한 오픈 소스 활동은 자신에게도 큰 도움이 됩니다.
     <br>
     <b>참여 문의</b> : 8대 회장 <a href="https://github.com/meisterjok32">천성훈(39기)</a>, 8대 부회장 남도현(39기), 8대 웹마스터 이동현(39기), <a href="https://github.com/guitar79">박기현 선생님</a>, <a href="https://www.facebook.com/gshstexsociety">경기과학고 TeX 사용자 협회 페이스북 페이지</a>
     </p>
-    <h2><a href="https://github.com/gshslatexintro/gshslatexintro/wiki/History-of-GSHS-TeX-Society">협회 역사</a></h2>
+    <h2><a href="https://github.com/gshstexsociety/latex.gs.hs.kr/wiki">협회 역사</a></h2>
   </div>
 </div>

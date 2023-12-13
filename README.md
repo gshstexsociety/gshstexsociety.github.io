@@ -2,13 +2,13 @@
 ## 개요
 경기과학고등학교 레이텍 협회 사이트 저장소입니다. http://latex.gs.hs.kr/ 에서 만나볼 수 있습니다.
 
-서버에 관한 정보는 [Wiki](https://github.com/gshslatexintro/latex.gs.hs.kr/wiki)에서 확인 가능합니다.
+서버에 관한 정보는 [Wiki](https://github.com/gshstexsociety/latex.gs.hs.kr/wiki)에서 확인 가능합니다.
 
 ## 설치
 이 사이트는 Jekyll을 이용하여 구동됩니다. local 환경에서 운영하려는 경우 다음 과정을 통해 운영할 수 있습니다.
 ### 저장소 복제
 ```
-git clone https://github.com/gshslatexintro/latex.gs.hs.kr
+git clone https://github.com/gshstexsociety/latex.gs.hs.kr
 mv latex.gs.hs.kr /var/www/source
 ```
 ### 환경 설치
@@ -57,7 +57,7 @@ nohup jekyll serve 1>/dev/null 2>&1 &
 
 
 ## 글 작성
-[CMS](http://latex.gs.hs.kr/cms/) 에서 글을 작성할 수 있습니다. gshslatexintro에 소속된 github 계정이 필요합니다. [GiHhub Token](https://github.com/settings/tokens)에서 ```repo``` 권한을 가진 ```token```을 생성해 암호란에 입력하면 됩니다. 
+[CMS](http://latex.gs.hs.kr/cms/) 에서 글을 작성할 수 있습니다. gshstexsociety에 소속된 github 계정이 필요합니다. [GiHhub Token](https://github.com/settings/tokens)에서 ```repo``` 권한을 가진 ```token```을 생성해 암호란에 입력하면 됩니다. 
 
 
 ## 주의

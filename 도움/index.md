@@ -16,7 +16,7 @@ permalink: /도움/
   <div class="col cell1of2 news">
     <h1>제보</h1>
     협회에서 제공되는 양식을 사용하던 중, 계속해서 조판 오류가 발생합니까? 양식 파일의 결함일 수도 있습니다.
-    이 경우 <a href="https://github.com/gshslatexintro/gshslatexintro/issues">GitHub 게시판에서 제보</a>해 주십시오.
+    이 경우 <a href="https://github.com/gshstexsociety/gshs-format/issues">GitHub 게시판에서 제보</a>해 주십시오.
     GitHub 계정이 없으시더라도 금방 생성할 수 있으며, 위 게시판은 GitHub 계정으로 누구나 글을 게시할 수 있습니다.
   </div>
 </div>

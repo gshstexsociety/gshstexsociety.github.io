@@ -6,7 +6,7 @@ description: "양식/예시/입문서 코드 및 파일 다운로드"
 permalink: /다운로드/
 ---
 
-모든 파일은 매시 정각 <a href="https://github.com/gshslatexintro">GitHub</a>에서 업데이트됩니다.
+모든 파일은 매시 정각 <a href="https://github.com/gshstexsociety">GitHub</a>에서 업데이트됩니다.
 
 ## <a href="{{ "/download.php" | prepend: site.baseurl }}">다운로드 페이지 링크</a>
 

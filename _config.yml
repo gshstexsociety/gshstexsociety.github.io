@@ -19,5 +19,5 @@ destination: /var/www/html
 
 # GitHub:
 github:
-  repo: gshslatexintro/latex.gs.hs.kr
+  repo: gshstexsociety/latex.gs.hs.kr
   branch: master

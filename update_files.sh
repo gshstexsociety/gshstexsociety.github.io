@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Git repo information
-org_url=https://github.com/gshslatexintro
+org_url=https://github.com/gshstexsociety
 repo_list="An-Introduction-to-LaTeX examples examples-mirror gshs-format gshs-format-mirror"
 
 find_branch="git symbolic-ref -q HEAD"
