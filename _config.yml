@@ -1,7 +1,7 @@
 # Site settings
-title: latex.gs.hs.kr
+title: GSHS TeX Society
 baseurl: ""
-url: "http://latex.gs.hs.kr"
+url: "http://gshstexsociety.github.io"
 
 # Build settings
 markdown: kramdown
@@ -14,10 +14,7 @@ markdown: kramdown
 # permalink: date|pretty|ordinal|none
 permalink: pretty
 
-# Destination
-destination: /var/www/html
-
 # GitHub:
 github:
-  repo: gshstexsociety/latex.gs.hs.kr
+  repo: gshstexsociety/gshstexsociety.github.io
   branch: master
