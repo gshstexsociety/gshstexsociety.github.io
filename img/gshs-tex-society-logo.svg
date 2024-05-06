@@ -25,8 +25,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="2.4153844"
-     inkscape:cx="193.96498"
-     inkscape:cy="56.926756"
+     inkscape:cx="193.96499"
+     inkscape:cy="56.926757"
      inkscape:window-width="1512"
      inkscape:window-height="916"
      inkscape:window-x="1920"
@@ -81,7 +81,7 @@
        id="text1"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7474px;font-family:'Noto Serif KR';-inkscape-font-specification:'Noto Serif KR';stroke-width:1.0055"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.7474px;font-family:'Noto Serif KR';-inkscape-font-specification:'Noto Serif KR Medium';stroke-width:1.0055"
          x="117.06306"
          y="101.76588">경기과학고</tspan></text>
   </g>
@@ -97,7 +97,7 @@
        id="text1-2"><tspan
          sodipodi:role="line"
          id="tspan1-1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.7474px;font-family:'Noto Serif KR';-inkscape-font-specification:'Noto Serif KR';stroke-width:1.0055"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:14.7474px;font-family:'Noto Serif KR';-inkscape-font-specification:'Noto Serif KR Medium';stroke-width:1.0055"
          x="117.06306"
          y="101.76588">사용자협회</tspan></text>
   </g>
@@ -308,5 +308,5 @@
        id="tspan2"
        x="205.35033"
        y="113.09554"
-       style="font-size:10.6667px">gshstexsociety.github.io</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.6667px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Medium'">gshstexsociety.github.io</tspan></text>
 </svg>
