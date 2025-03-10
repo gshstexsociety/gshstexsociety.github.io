@@ -49,7 +49,7 @@ permalink: /참여/
     <br>
     40기 : <a href="https://github.com/yoonmyeong673">윤명</a>, <a href="https://github.com/gs22078">이준석</a>
     <br>
-    41기 : <a href="https://github.com/dkim110807">김준용</a>, 
+    41기 : <a href="https://github.com/dkim110807">김준용</a>,  <a href="https://github.com/dkim110807">박승찬</a>, 
     <br>
     외부 : <a href="https://github.com/DyneAlpha">(김다인)</a>
     <br>
